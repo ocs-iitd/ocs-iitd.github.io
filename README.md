@@ -1,2 +1,2 @@
-# ocs-iitd.github.io
-webpage
+# ocs-website
+for ocs portal
